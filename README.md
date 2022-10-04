@@ -1,3 +1,3 @@
 # Bases-de-Datos
-Ejercicios. Realización de consultas SQL
+Formación. Realización de consultas SQL
 Tecnico superior DAM
